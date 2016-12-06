@@ -7,10 +7,13 @@ Homepage on coursera.org").
 
 ## Assignments
 
-### Week 2
+### Module 2
+* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+* Deadline: December 18, 11:59 PM PST
+* Solution
 
-### Week 3
+### Module 3
 
-### Week 4
+### Module 4
 
-### Week 5
+### Module 5
