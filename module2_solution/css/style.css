@@ -12,42 +12,41 @@ h1 {
     color: black;
 }
 
-p {
-    margin-top: 50px;
-    padding: 10px;
-}
-
-.textbox {
-    overflow: auto;
-    height: 300px;
+section {
     border: 1px solid black;
-    background-color: #a9acbb;
-    margin: 15px
+    background-color: #b5c4d2;
+    margin: 10px;
 }
 
-.textbox>div {
+section>h2 {
     float: right;
-    width: 235px;
-    padding: 8px;
-    text-align: center;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
-    font-family: Times;
+    margin: 0;
+    width: 230px;
+    text-align: center;
+    font-style: Times;
     font-size: 24px;
     font-weight: bold;
+    height: 45px;
+    padding-top: 10px;
 }
 
-#lebesgue {
+section.lebesgue>h2 {
     background-color: #76b8db;
 }
 
-#fubini {
+section.fubini>h2 {
     background-color: #4f7acd;
 }
 
-#luzin {
+section.luzin>h2 {
     color: #e2e2e2;
     background-color: #10328a;
+}
+
+section>p {
+    padding: 40px 15px 15px 15px;
 }
 
 .row {
