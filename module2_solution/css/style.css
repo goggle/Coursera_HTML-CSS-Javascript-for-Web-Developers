@@ -25,10 +25,9 @@ p {
     margin: 15px
 }
 
-.textbox > div {
+.textbox>div {
     float: right;
-    width: 230px;
-    height: 50px;
+    width: 235px;
     padding: 8px;
     text-align: center;
     border-bottom: 1px solid black;
