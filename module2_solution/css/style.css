@@ -1,41 +1,62 @@
-/********** Base styles **********/
-
 * {
     box-sizing: border-box;
     font-family: Helvetica;
 }
 
+body {
+    background-color: #d6d6d6;
+}
+
 h1 {
-    margin-bottom: 35px;
     text-align: center;
-    color: #333333
+    color: black;
 }
 
 p {
-    /*border: 1px solid black;*/
-    /*background-color: #65787c;*/
-    /*width: 95%;*/
-    /*height: 250px;*/
-    /*margin-right: auto;
-    margin-left: auto;*/
-    /*color: #3b3b3b;*/
+    padding: 50px 15px 5px 15px;
 }
 
 section {
-    border: 3px solid black;
-    width: 95%;
-    background-color: #6e6f77;
-    /*padding: 30px;*/
+    overflow: auto;
+    width: 100%;
+    height: 300px;
+    border: 4px solid black;
+    background-color: #a9acbb;
 }
 
-section > div {
-    color: red;
-    /*border: black solid 1px*/
-    font-size: 20px;
+section>div {
+    float: right;
+    width: 200px;
+    height: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 8px;
+    text-align: center;
+    color: black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    font-family: Times;
+    font-size: 24px;
+    font-weight: bold;
 }
 
+.box {
+    width: 100%;
+    padding: 10px;
+}
 
-/* Simple Responsive Framework. */
+#lebesgue {
+    background-color: #76b8db;
+}
+
+#fubini {
+    background-color: #4f7acd;
+}
+
+#luzin {
+    color: #e2e2e2;
+    background-color: #10328a;
+}
 
 .row {
     width: 100%;
@@ -43,6 +64,7 @@ section > div {
 
 
 /* Desktop view options */
+
 @media (min-width: 992px) {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
         float: left;
@@ -88,6 +110,7 @@ section > div {
 
 
 /* Tablet view options */
+
 @media (min-width: 768px) and (max-width: 991px) {
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
         float: left;
@@ -131,7 +154,9 @@ section > div {
     }
 }
 
+
 /* Mobile view options */
+
 @media (max-width: 767px) {
     .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
         float: left;
