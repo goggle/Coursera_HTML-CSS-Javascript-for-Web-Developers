@@ -20,7 +20,7 @@ p {
 .textbox {
     overflow: auto;
     height: 300px;
-    border: 4px solid black;
+    border: 1px solid black;
     background-color: #a9acbb;
     margin: 15px
 }
@@ -31,8 +31,8 @@ p {
     height: 50px;
     padding: 8px;
     text-align: center;
-    border-bottom: 3px solid black;
-    border-left: 3px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     font-family: Times;
     font-size: 24px;
     font-weight: bold;
