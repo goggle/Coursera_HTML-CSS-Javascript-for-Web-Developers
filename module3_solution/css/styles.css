@@ -1,0 +1,13 @@
+h1 {
+    color: #b34112;
+    text-align: center;
+    background-color: #a4cfe7;
+    height: 120px;
+    margin: 0;
+    padding-top: 60px;
+    border-radius: 10px;
+}
+
+p {
+    color: #202c71;
+}
