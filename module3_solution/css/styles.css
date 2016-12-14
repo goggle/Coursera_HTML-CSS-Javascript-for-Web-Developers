@@ -1,4 +1,11 @@
-h1 {
+/*body {
+    background-color: #650d2a;
+    color: #f4ecf9;
+    font-size: 1.8em;
+}*/
+
+
+/*h1 {
     color: #b34112;
     text-align: center;
     background-color: #a4cfe7;
@@ -6,8 +13,12 @@ h1 {
     margin: 0;
     padding-top: 60px;
     border-radius: 10px;
+}*/
+
+.navbar {
+    background-color: #042e04;
 }
 
-p {
-    color: #202c71;
+.navbar-brand {
+    color: #e4e6ab;
 }
