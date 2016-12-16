@@ -21,5 +21,6 @@ Homepage on coursera.org").
 ### Module 4
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
 * Deadline: January 1, 11:59 PM PST
+* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module4_solution/)
 
 ### Module 5
