@@ -1,6 +1,6 @@
 # Module 3 Coding Assignment
 
-Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+Coursera course: [HTML, CSS, and Javascript for Web Developers] by John Hopkins university(https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 Woo-hoo! MORE CODING!!! Exciting! :-)
 
