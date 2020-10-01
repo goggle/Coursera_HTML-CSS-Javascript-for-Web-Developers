@@ -1,4 +1,4 @@
-# HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
+# HTML, CSS and Javascript for Web Developers (by Johns Hopkins University Instructor: Yaakov Chaikin)
 
 This repository contains my solutions to the assignments of the Coursera course
 ["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
